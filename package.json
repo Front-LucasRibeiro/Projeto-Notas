@@ -4,7 +4,7 @@
   "description": "Aplicação em NodeJS de cadastro de postagens com template engine handlebars, e banco de dados mysql com sequelize e servidor local express",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^3.1.0",
     "mysql2": "^1.6.5",
     "sequelize": "^5.16.0"
